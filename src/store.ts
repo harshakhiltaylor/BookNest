@@ -28,4 +28,12 @@ export abstract class Store {
 
     }
 
+    returnBook(userId: string, title: string){
+
+    }
+
+    borrowBook(userId: string, title: string){
+        
+    }
+
 }
